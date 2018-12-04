@@ -1,5 +1,7 @@
 # Pokedex by Carlos Robles
 
+![principal](pikachu.png)
+
 # To get Started
 
 To get the frontend running locally:
