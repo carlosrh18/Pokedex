@@ -1,1 +1,26 @@
-hola
+--- Pokedex V.1 by Carlos Robles ----
+
+---Como usarla---
+
+Navega con en la lista con el touchpad y da click en tu pokemon favorito para visualizar sus datos. 
+
+--- Barra de Busqueda ---
+
+Para buscar un pokemon, simplemente teclea en la barra de busqueda el pokemon que desees encontrar.
+No des ENTER!, simplemente espera a que la busqueda se realice. 
+
+
+-------------------------------------
+
+                                 ,'\
+    _.----.        ____         ,'  _\   ___    ___     ____
+_,-'       `.     |    |  /`.   \,-'    |   \  /   |   |    \  |`.
+\      __    \    '-.  | /   `.  ___    |    \/    |   '-.   \ |  |
+ \.    \ \   |  __  |  |/    ,','_  `.  |          | __  |    \|  |
+   \    \/   /,' _`.|      ,' / / / /   |          ,' _`.|     |  |
+    \     ,-'/  /   \    ,'   | \/ / ,`.|         /  /   \  |     |
+     \    \ |   \_/  |   `-.  \    `'  /|  |    ||   \_/  | |\    |
+      \    \ \      /       `-.`.___,-' |  |\  /| \      /  | |   |
+       \    \ `.__,'|  |`-._    `|      |__| \/ |  `.__,'|  | |   |
+        \_.-'       |__|    `-._ |              '-.|     '-.| |   |
+                                `'                            '-._|
