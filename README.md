@@ -10,9 +10,9 @@ Clone this repo
 npm install to install all req'd dependencies
 npm start to start the local server (this project uses create-react-app)
 
-# Requerimientos adicionales (Usar en Google Chrome)
+# Aditional Requirements (Use Chrome Browser Only!!)
 
-Para que funcione localmente tienes que instalar la extensión para google chrome : enable cross origin, la url es:
+For this to work, you have to install the allow control origin google extension. The url is:
 https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi
 
 
