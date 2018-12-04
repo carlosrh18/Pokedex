@@ -18,6 +18,9 @@ to start the local server (this project uses create-react-app)
 https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi
 
 
+![carlos](carlos_logo.png)
+By Carlos Robles
+
 
 
 
